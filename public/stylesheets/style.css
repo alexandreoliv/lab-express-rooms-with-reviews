@@ -29,6 +29,12 @@ nav a {
 }
 
 a {
-  color: #00B7FF; }
+  color: #00B7FF;
+}
+
+#rooms {
+  display: flex;
+  justify-content: space-around;
+}
 
 /*# sourceMappingURL=style.css.map */
